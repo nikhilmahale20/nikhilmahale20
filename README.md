@@ -99,7 +99,7 @@ I'm open to interesting projects, AI/GenAI ideas, backend engineering, and meani
     <img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-mahale-jd/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
