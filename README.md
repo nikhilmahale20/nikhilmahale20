@@ -18,7 +18,7 @@
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nikhil-mahale-jd/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A\&labelColor=ef5350\&logo=gmail\&logoColor=ffffff\&style=for-the-badge)](mailto:nikhilmahale1143@gmail.com)
 ![](https://komarev.com/ghpvc/?username=nikhilmahale20\&color=brightgreen\&style=for-the-badge)
 
